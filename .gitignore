@@ -1,0 +1,7 @@
+.env
+.vscode/
+Exordium Employee Hand Book.docx
+__pycache__/
+grok.txt
+test_chatbot.ipynb
+venv/
